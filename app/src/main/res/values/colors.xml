@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="colorPrimary">#009688</color>
+        <color name="colorPrimaryDark">#009688</color>
+        <color name="colorAccent">#ff785b</color>
+    <color name="Res">#9C27B0</color>
+    <color name="Events">#8BC34A</color>
+    <color name="Search">#3F51B5</color>
+    <color name="Profile">#FF5722</color>
+    <color name="Frag">#3F51B5</color>
+    <color name="Black">#000000</color>
+    <color name="my_menu_badge_color">#F44336</color>
+    <color name="my_menu_unselected_color">#fff</color>
+
+</resources>

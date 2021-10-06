@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/menu_res">
+
+    <fragment
+        android:id="@+id/menu_res"
+        android:name="com.example.authentic.UI.ResFragment"
+        android:label="Restaurants"
+        tools:layout="@layout/res_fragment" />
+
+    <fragment
+        android:id="@+id/menu_events"
+        android:name="com.example.authentic.UI.EventsFragment"
+        android:label="Events"
+        tools:layout="@layout/events_fragment" />
+
+    <fragment
+        android:id="@+id/menu_profile"
+        android:name="com.example.authentic.UI.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/profile_fragment" />
+    <fragment
+        android:id="@+id/menu_amenity"
+        android:name="com.example.authentic.UI.AmenityFragment"
+        android:label="Amenity"
+        tools:layout="@layout/amenity_fragment" />
+</navigation>

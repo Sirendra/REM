@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cnb_unselectedColor="@color/my_menu_unselected_color"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_res"
+        android:icon="@drawable/ic_restaurant"
+        android:title="Restaurants"
+        app:cnb_backgroundColor="@color/colorAccent"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"/>
+
+    <item android:id="@+id/menu_events"
+        android:icon="@drawable/ic_event"
+        android:title="   Events"
+        app:cnb_backgroundColor="@color/colorAccent"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"/>
+
+    <item android:id="@+id/menu_amenity"
+        android:icon="@drawable/ic_amenity"
+        android:title="Amenity"
+        app:cnb_backgroundColor="@color/colorAccent"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"/>
+
+
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_person_pin"
+        android:title="Profile"
+        app:cnb_backgroundColor="@color/colorAccent"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"/>
+
+</menu>

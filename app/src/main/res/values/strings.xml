@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_user_register_now">New User? REGISTER NOW</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

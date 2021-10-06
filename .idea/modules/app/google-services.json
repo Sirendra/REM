@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521275275398",
+    "firebase_url": "https://authentictasipa.firebaseio.com",
+    "project_id": "authentictasipa",
+    "storage_bucket": "authentictasipa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521275275398:android:830ee300087daa51f67907",
+        "android_client_info": {
+          "package_name": "com.example.authentic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521275275398-8apt346o71to3bcd3e4o89v680ubhop9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentic",
+            "certificate_hash": "aa22e2b2815f8710064f5baedd06aa82f234d3d1"
+          }
+        },
+        {
+          "client_id": "521275275398-trkf1a4d7bn2723e25ti7uunbslb87bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2eKfnOgH_tMBUaLAb2FIeUaiSOHU-vds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521275275398-trkf1a4d7bn2723e25ti7uunbslb87bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
